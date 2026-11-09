@@ -1,0 +1,9 @@
+1. add git
+2. Try and make pixel agnostic, by trying to split the image into hundredths?
+
+
+3. add simpleScanline, and complex pipeline, to generate two outputs, numbered 2x2 thick/spacing?
+    -Explore how animated media does -the higher contrast may be better.
+              - Black and white cartoon sample footage?
+4. Set transition alpha to a class constant?
+5. Make pipeline stora an array of images, rendering each?
